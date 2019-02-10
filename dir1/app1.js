@@ -1,0 +1,1 @@
+console.load(123);
